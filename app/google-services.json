@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838036169885",
+    "project_id": "st10256115-firebasics",
+    "storage_bucket": "st10256115-firebasics.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838036169885:android:7469de72abf290dd58a074",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.prog7313g2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs7ceeVcdpEU3nOcKveqKI1nHHpM33te0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
